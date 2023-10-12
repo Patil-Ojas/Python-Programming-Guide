@@ -1,0 +1,6 @@
+COde with harry
+
+import flask- error, then type 'pip install flask' for auto flask download 
+pip-pakacge manager
+flask/os- module (file with code which is imported)
+repl in windows powershell for smol python work (calculate
